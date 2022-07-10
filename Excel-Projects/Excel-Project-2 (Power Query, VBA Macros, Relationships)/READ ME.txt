@@ -1,0 +1,9 @@
+Create the folders:
+- Reports for Managers
+- Sales Reports
+
+Copy csv files from the folder "All Reports" into the folder "Sales Reports" to create and test the Power Query queries.
+
+All the success in your studies!
+
+Karan
